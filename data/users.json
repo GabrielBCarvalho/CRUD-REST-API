@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"Machado de Assis",
+        "email":"machado@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"Clarice Lispector",
+        "email":"clarice@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"Paulo Coelho",
+        "email":"coelho@gmail.com"
+    }
+]
